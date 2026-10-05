@@ -1,0 +1,6 @@
+Sun Oct  4 18:50:56 2026
+WARNING: mju_openResource: unknown file 'E:\26秋招新题目控制组阶段二\26秋招新题目控制组阶段二\强化学习\task2_lab\lab\RLlab\.venv\lib\site-packages\gym\envs\mujoco\assets\half_cheetah.xml'
+
+Sun Oct  4 18:50:56 2026
+WARNING: mju_openResource: unknown file 'E:\26秋招新题目控制组阶段二\26秋招新题目控制组阶段二\强化学习\task2_lab\lab\RLlab\.venv\lib\site-packages\gym\envs\mujoco\assets\inverted_pendulum.xml'
+

@@ -1,0 +1,33 @@
+# ===== Python 虚拟环境 =====
+.venv/
+venv/
+env/
+ENV/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ===== C 编译产物 =====
+*.o
+*.obj
+*.out
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.iml
+
+# ===== CS61A ok 自动评分工具状态 =====
+.ok_history
+.ok_messages
+.ok_storage.*
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
+
+# ===== 训练输出 =====
+wandb/

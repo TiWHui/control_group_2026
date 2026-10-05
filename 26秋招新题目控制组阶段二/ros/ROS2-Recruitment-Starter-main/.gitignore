@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+
+# WSL/Windows specific (not needed on RPi)
+turtlebot_sim/setup_wsl.ps1
+
+# Archives
+*.zip
